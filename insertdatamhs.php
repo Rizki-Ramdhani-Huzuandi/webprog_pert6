@@ -39,7 +39,7 @@
         </div>
         PASSCODE
         <div>
-            <input type="text" nama="txPASSS">        
+            <input type="pasword" nama="txPASSS">        
         </div>
 
         <div>
